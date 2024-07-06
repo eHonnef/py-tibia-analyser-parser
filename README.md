@@ -1,0 +1,1 @@
+# py-tibia-analyser-parser
